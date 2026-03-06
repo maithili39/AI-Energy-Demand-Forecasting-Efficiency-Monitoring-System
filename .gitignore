@@ -1,0 +1,22 @@
+# Data & model artifacts (too large for git)
+data/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv*/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
